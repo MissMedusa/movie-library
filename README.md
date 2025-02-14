@@ -6,6 +6,7 @@ git clone https://github.com/MissMedusa/movie-library.git
 
 Open directory and run in terminal:
 npm install
+then:
 npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
